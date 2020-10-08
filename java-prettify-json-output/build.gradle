@@ -1,0 +1,22 @@
+plugins {
+    id 'java-library'
+}
+
+sourceCompatibility = 12
+targetCompatibility = 12
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+	/*Jackson*/
+	/*implementation('com.fasterxml.jackson.core:jackson-core:2.11.2')
+	implementation('com.fasterxml.jackson.core:jackson-databind:2.11.2')*/
+	
+	/*Gson*/
+	//implementation('com.google.code.gson:gson:2.8.6')
+	
+	/*JSON*/
+	implementation('org.json:json:20200518')
+}
