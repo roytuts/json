@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/how-to-pretty-print-json-in-java/
+Please follow the tutorial https://roytuts.com/how-to-pretty-print-json-in-java/
